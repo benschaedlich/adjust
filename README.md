@@ -6,7 +6,7 @@ Nothing to build.
 
 ### Usage
 1. Open terminal if not on console
-2. Change directory into the script location 
+2. Change directory to the script location 
 3.  Run:
 		bash adjust.sh
 
